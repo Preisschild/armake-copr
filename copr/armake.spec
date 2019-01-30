@@ -35,5 +35,5 @@ rm -rf %{buildroot}
 
 
 %changelog
-* May 23 2018 Koffeinflummi
+* Wed May 23 2018 KoffeinFlummi <koffeinflummi@protonmail.com>
 - Fix uninitialized value used for header extensions
