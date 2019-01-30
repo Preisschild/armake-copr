@@ -7,7 +7,7 @@ License:        GPLv2
 URL:            https://github.com/KoffeinFlummi/armake
 Source0:        https://github.com/KoffeinFlummi/armake/archive/v%{version}.tar.gz
 
-BuildRequires:  openssl-devel bison gcc
+BuildRequires:  openssl-devel bison gcc flex
 
 %description
 A cross-platform, open-source C implementation of Arma modding tools (PAA conversion, binarization & rapification, PBO packing, key generation and signing).
